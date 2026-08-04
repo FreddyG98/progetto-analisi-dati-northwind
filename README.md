@@ -12,7 +12,7 @@ Il core dell'architettura è costituito da un'istanza relazionale PostgreSQL ott
 
 ---
 
-## 🎯 Obiettivi
+## 🎯 Obiettivi del progetto
 * Configurare, modellare e ottimizzare database enterprise (Northwind e AdventureWorks) in un ambiente self-hosted.
 * Sviluppare un ecosistema di analisi end-to-end su Power BI a supporto delle decisioni aziendali.
 
