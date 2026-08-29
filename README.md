@@ -81,3 +81,39 @@ Il core dell'architettura è costituito da un'istanza relazionale PostgreSQL ott
 * Rilevamento dei colli di bottiglia tramite *Analizzatore di Prestazioni (Performance Analyzer)* e ottimizzazione delle query SQL tramite creazione di Indici specifici sulle Foreign Key (FK) e sulle colonne data della tabella dei fatti (`Orders`).
 * **Conversione Architetturale:** Per consentire la condivisione pubblica tramite link web superando i blocchi di rete del Gateway locale, è stata creata una copia del report convertendo il modello dati da *DirectQuery* a *Modalità Import*, riducendo drasticamente i tempi di caricamento.
 * Pubblicazione finale nell'Area di lavoro di Power BI Service e sviluppo della Dashboard direzionale.
+
+---
+
+## 👤 Autore
+
+**FreddyG98**
+
+Data Analyst certificato Microsoft:
+
+* Microsoft Certified: Azure Fundamentals (**AZ-900**)
+* Microsoft Certified: Azure Data Fundamentals (**DP-900**)
+
+Progetto sviluppato come dimostrazione pratica di:
+
+```text
+End-to-End Data Architecture
+Self-Hosted Data Infrastructure
+PostgreSQL Database Administration
+SQL Data Ingestion and Data Loading
+Database Schema Management
+Data Auditing and Data Quality Validation
+SQL Views, Joins and Data Transformation
+Query Optimization and Indexing
+Data Modeling and Star Schema Design
+Power Query Data Transformation
+DirectQuery and Import Mode Architecture
+On-Premises Data Gateway Configuration
+Power BI Semantic Modeling
+DAX Measures and Time Intelligence
+Interactive Dashboard Development
+Performance Analysis and Optimization
+Data Visualization and UI/UX Design
+Figma, SVG and TopoJSON Integration
+Docker / Portainer Data Environment Deployment
+Technical Troubleshooting and Documentation
+```
