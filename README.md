@@ -7,13 +7,7 @@ Il core dell'architettura è costituito da un'istanza relazionale PostgreSQL ott
 
 ---
 
-## 🌐 Report
-
-➡️ **[Sfoglia il Report](https://app.fabric.microsoft.com/view?r=eyJrIjoiODNlOTk4YTktYjU0Ny00ZjBhLTgwZmEtY2IzYTU5NTM0MjQxIiwidCI6IjU5YWI2OWYzLWVkYmEtNDkyZS1hODE5LWNmYjJjNDgzOGRmZiJ9)**
-
----
-
-## 📈 Dashboard
+## 📈 Report ➡️ **[Aprilo cliccando qui](https://app.fabric.microsoft.com/view?r=eyJrIjoiODNlOTk4YTktYjU0Ny00ZjBhLTgwZmEtY2IzYTU5NTM0MjQxIiwidCI6IjU5YWI2OWYzLWVkYmEtNDkyZS1hODE5LWNmYjJjNDgzOGRmZiJ9)**
 <img width="1422" height="797" alt="Dashboard" src="https://github.com/user-attachments/assets/ed6b22be-c94f-4970-8ad3-d31d5c7911cc" />
 
 ---
