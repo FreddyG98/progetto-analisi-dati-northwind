@@ -9,7 +9,7 @@ Il core dell'architettura è costituito da un'istanza relazionale PostgreSQL ott
 
 ## 🌐 Report
 
-➡️ **[Sfoglia il Report]([https://freddyg98.github.io/pl300-exam-simulator-demo/](https://app.fabric.microsoft.com/view?r=eyJrIjoiODNlOTk4YTktYjU0Ny00ZjBhLTgwZmEtY2IzYTU5NTM0MjQxIiwidCI6IjU5YWI2OWYzLWVkYmEtNDkyZS1hODE5LWNmYjJjNDgzOGRmZiJ9))**
+➡️ **[Sfoglia il Report](https://app.fabric.microsoft.com/view?r=eyJrIjoiODNlOTk4YTktYjU0Ny00ZjBhLTgwZmEtY2IzYTU5NTM0MjQxIiwidCI6IjU5YWI2OWYzLWVkYmEtNDkyZS1hODE5LWNmYjJjNDgzOGRmZiJ9)**
 
 ---
 
